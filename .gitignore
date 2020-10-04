@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# verilog stuff
+work/
+transcript
+vsim.wlf
+/build.log
+/report.ucdb
